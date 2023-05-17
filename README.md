@@ -41,7 +41,7 @@ You can align each of our images to different parts of the page as well. Look fo
 <img src="https://i.imgur.com/ejqFBIN.png" height="80%" width="80%" alt="textwrap"/>
 <br />
 <br />
-I now have all my images aligned where I want them and it looks like it's coming together nicely. I will now also format the text with a nicer font.
+I now have all my images aligned where I want them and it looks like it's coming together nicely. I will now also format the text with a nicer font and correct any typos.
  <br/>
 <img src="https://i.imgur.com/CAX9Twn.jpg" height="80%" width="80%" alt="textwrap"/>
 <br />
