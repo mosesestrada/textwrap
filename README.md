@@ -48,7 +48,7 @@ I now have all my images aligned where I want them and it looks like it's coming
 <br />
 That's it! We are finished. You now see the possibilities of text wrapping in Microsoft Word. You can experiment with different images and different text wrapping options for different looks.
  <br/>
-<img src="https://i.imgur.com/sSNiogi.png" height="80%" width="80%" alt="textwrap"/>
+<img src="https://i.imgur.com/n3uXIRV.png" height="80%" width="80%" alt="textwrap"/>
 <br />
 <br />
   I hope you enjoyed this demonstration.
