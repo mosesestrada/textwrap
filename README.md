@@ -53,7 +53,7 @@ That's it! We are finished. You now see the possibilities of text wrapping in Mi
 <br />
   I hope you enjoyed this demonstration.
  <br/>
-<img src="https://i.imgur.com/h6AfkiT.png" height="80%" width="80%" alt="textwrap"/>
+<img src="https://i.imgur.com/Fhv5puc.png" height="80%" width="80%" alt="textwrap"/>
 <br />
 <br />
 
