@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/Lvx8WdQ.png" height="80%" width="80%" alt="textwrap logo"/>
+ <img src="https://i.imgur.com/ddqKqKH.png" height="80%" width="80%" alt="textwrap logo"/>
 </p>
 
 <h1>Text Wrapping in Microsoft Word</h1>
